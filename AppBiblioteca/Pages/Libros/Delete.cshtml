@@ -1,0 +1,59 @@
+﻿@page
+@model AppBiblioteca.Pages.Libros.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Libro</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Libro.Titulo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Libro.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Libro.FechaPublicacion)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Libro.FechaPublicacion)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Libro.Autor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Libro.Autor.Nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Libro.Genero)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Libro.Genero.Nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Libro.Estado)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Libro.Estado)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Libro.Disponible)
+        </dt>
+        <dd class="col-sm-10">
+            @(Model.Libro.Disponible ? "Sí" : "No")
+            @* @Html.DisplayFor(model => model.Libro.Disponible) *@
+        </dd>
+    </dl>
+
+    <form method="post">
+        <input type="hidden" asp-for="Libro.Id" />
+        <button type="submit" class="btn btn-danger"><i class="fa-solid fa-trash"></i>&nbsp;Eliminar</button>
+        <a asp-page="./Index" class="btn btn-secondary"><i class="fa-solid fa-circle-left"></i>&nbsp;Regresar</a>
+    </form>
+</div>

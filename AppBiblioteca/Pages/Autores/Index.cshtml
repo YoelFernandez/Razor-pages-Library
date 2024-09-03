@@ -1,0 +1,72 @@
+﻿@page
+@model AppBiblioteca.Pages.Autores.IndexModel
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common
+@{
+    ViewData["Title"] = "Autores";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p class="text-end">
+    @Model.TotalRegistros registros
+</p>
+<div class="row">
+    <div class="col-6">
+        <a asp-page="Create" class="btn btn-info"><i class="fa-solid fa-plus"></i>&nbsp; Nuevo Autor</a>
+
+
+    </div>
+    <div class="col-6">
+        <form>
+            <div class="input-group">
+                <input class="form-control" type="date" asp-for="buscarFecha" />
+
+                <button class="btn btn-outline-info">Buscar</button>
+                <a class="btn btn-outline-secondary" asp-page="./Index">Limpiar</a>
+            </div>
+        </form>
+    </div>
+</div>
+<table class="table table-bordered table-hover mt-3">
+    <thead class="bg-info bg-gradient text-white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Autor[0].Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Autor[0].FechaNacimiento)
+            </th>
+            <th class="text-center">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Autor)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaNacimiento)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning"><i class="fa-solid fa-pen-to-square"></i>&nbsp; Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-info"><i class="fa-solid fa-circle-info"></i>&nbsp;Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger"><i class="fa-solid fa-trash"></i>&nbsp;Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager(Model.Autor, page => Url.Action("Index", new
+    {
+        Pagina = page,
+        buscarFecha = Model.buscarFecha
+    }),
+    new PagedListRenderOptions
+{
+    LiElementClasses = new string[] { "page-item" },
+    PageClasses = new string[] { "page-link" }
+}
+    )

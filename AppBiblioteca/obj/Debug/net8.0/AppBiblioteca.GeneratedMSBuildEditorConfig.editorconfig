@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppBiblioteca
+build_property.RootNamespace = AppBiblioteca
+build_property.ProjectDir = C:\Users\ayoel\OneDrive - unc.edu.pe\Quinto Ciclo sobreviviendo\Programación Aplicada II\Proyectos Aplicada II\VS 2022\AppBiblioteca\AppBiblioteca\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ayoel\OneDrive - unc.edu.pe\Quinto Ciclo sobreviviendo\Programación Aplicada II\Proyectos Aplicada II\VS 2022\AppBiblioteca\AppBiblioteca
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Autores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Autores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Autores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Autores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Autores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3Jlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Generos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Generos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Generos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Generos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Generos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Libros/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlicm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Libros/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlicm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Libros/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlicm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Libros/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlicm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Libros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlicm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Prestamos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc3RhbW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Prestamos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc3RhbW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Prestamos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc3RhbW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Prestamos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc3RhbW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Prestamos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc3RhbW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayoel/OneDrive - unc.edu.pe/Quinto Ciclo sobreviviendo/Programación Aplicada II/Proyectos Aplicada II/VS 2022/AppBiblioteca/AppBiblioteca/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-etmrwnoepc

@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\prestamos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\prestamos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\libros\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\libros\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\prestamos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\prestamos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\generos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\generos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\generos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\generos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\autores\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\autores\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\generos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\generos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\prestamos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\prestamos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\autores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\autores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\libros\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\libros\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\prestamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\prestamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\generos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\generos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\autores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\autores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\prestamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\prestamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\generos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\generos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\autores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\autores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\generos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\generos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\autores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\autores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\prestamos\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\prestamos\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|c:\\users\\ayoel\\onedrive - unc.edu.pe\\quinto ciclo sobreviviendo\\programaci\u00F3n aplicada ii\\proyectos aplicada ii\\vs 2022\\appbiblioteca\\appbiblioteca\\pages\\libros\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC26DB4-0763-45F6-87A9-4C53C97B3E28}|AppBiblioteca\\AppBiblioteca.csproj|solutionrelative:appbiblioteca\\pages\\libros\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Prestamos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Create.cshtml.cs",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Prestamos\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:51:53.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Generos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Index.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Generos\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T03:42:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Libros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Index.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Libros\\Index.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwFwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T02:48:07.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Libros\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Index.cshtml.cs",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Libros\\Index.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:48:05.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Prestamos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Index.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Prestamos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T03:42:14.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Libros\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Edit.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Libros\\Edit.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T02:46:55.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Prestamos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Create.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Prestamos\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:23:37.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Generos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Index.cshtml.cs",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Generos\\Index.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:54:09.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Prestamos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Index.cshtml.cs",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Prestamos\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:34:17.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Autores\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Index.cshtml.cs",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Autores\\Index.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:50:25.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Autores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Index.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Autores\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T03:41:57.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Generos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Edit.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Generos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:31:40.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Prestamos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Edit.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Prestamos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:31:49.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Autores\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Edit.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Autores\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:31:31.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Libros\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Delete.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Libros\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:25:06.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Libros\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Delete.cshtml.cs",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Libros\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:39:08.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Prestamos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Delete.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Prestamos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:35:07.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Generos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Delete.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Generos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:38:43.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Autores\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Delete.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Autores\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:38:29.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Prestamos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Details.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Prestamos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T03:48:03.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Generos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Details.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Generos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:34:55.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Libros\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Details.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Libros\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T02:49:31.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Autores\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Details.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Autores\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:34:41.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Generos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Generos\\Create.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Generos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:23:21.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Autores\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Autores\\Create.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Autores\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T03:44:03.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Libros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Create.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Libros\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T02:47:26.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Prestamos\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Prestamos\\Details.cshtml.cs",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Prestamos\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:48:06.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T02:52:45.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "AppBiblioteca\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\appsettings.json",
+              "RelativeToolTip": "AppBiblioteca\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T02:52:46.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "AppBiblioteca\\Pages\\Libros\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ayoel\\OneDrive - unc.edu.pe\\Quinto Ciclo sobreviviendo\\Programaci\u00F3n Aplicada II\\Proyectos Aplicada II\\VS 2022\\AppBiblioteca\\AppBiblioteca\\Pages\\Libros\\Create.cshtml.cs",
+              "RelativeToolTip": "AppBiblioteca\\Pages\\Libros\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:47:29.062Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

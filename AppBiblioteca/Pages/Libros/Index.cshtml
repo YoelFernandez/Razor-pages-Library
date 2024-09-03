@@ -1,0 +1,103 @@
+﻿@page
+@model AppBiblioteca.Pages.Libros.IndexModel
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common
+@{
+    ViewData["Title"] = "Libros";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p class="text-end">
+    @Model.totalRegistros registros
+</p>
+<div class="row">
+    <div class="col-6">
+        <a asp-page="Create" class="btn btn-info"><i class="fa-solid fa-plus"></i>&nbsp; Nuevo Libro</a>
+
+    </div>
+    <div class="col-6">
+        <form>
+            <div class="input-group">
+                <select asp-for="buscarEstado" class="form-select" asp-items="Html.GetEnumSelectList<AppBiblioteca.Models.Libro.EstadoLibro>()">
+                    <option value="">Opcion a buscar</option>
+                </select>
+                <button class="btn btn-outline-info">Buscar</button>
+                <a class="btn btn-outline-secondary" asp-page="./Index">Limpiar</a>
+            </div>
+        </form>
+    </div>
+</div>
+<table class="table table-bordered table-hover mt-3">
+    <thead class="bg-info bg-gradient text-white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Libro[0].Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Libro[0].FechaPublicacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Libro[0].Autor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Libro[0].Genero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Libro[0].Estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Libro[0].Disponible)
+            </th>
+            <th class="text-center">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Libro)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaPublicacion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Autor.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genero.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estado)
+                </td>
+                <td>
+                    @(item.Disponible ? "Sí" : "No")
+                    @* @Html.DisplayFor(modelItem => item.Disponible) *@
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning"><i class="fa-solid fa-pen-to-square"></i>&nbsp; Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-info"><i class="fa-solid fa-circle-info"></i>&nbsp;Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger"><i class="fa-solid fa-trash"></i>&nbsp;Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager(Model.Libro, page => Url.Action("Index", new
+    {
+        Pagina = page
+    }),
+    new PagedListRenderOptions
+{
+    LiElementClasses = new string[] { "page-item" },
+    PageClasses = new string[] { "page-link" }
+}
+
+    )
+<div class="my-3">
+    <form>
+        <button type="submit" name="ordenar" value="fechaAsc" class="btn btn-primary">Ordenar AS</button>
+        <button type="submit" name="ordenar" value="fechaDes" class="btn btn-primary">Ordenar Des</button>
+    </form>
+</div>

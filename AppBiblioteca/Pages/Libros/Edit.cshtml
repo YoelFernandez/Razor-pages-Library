@@ -1,0 +1,69 @@
+﻿@page
+@model AppBiblioteca.Pages.Libros.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Libro</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Libro.Id" />
+            <div class="form-group">
+                <label asp-for="Libro.Titulo" class="control-label"></label>
+                <input asp-for="Libro.Titulo" class="form-control" />
+                <span asp-validation-for="Libro.Titulo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Libro.FechaPublicacion" class="control-label"></label>
+                <input asp-for="Libro.FechaPublicacion" class="form-control" type="date" />
+                <span asp-validation-for="Libro.FechaPublicacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Libro.AutorId" class="control-label"></label>
+                <select asp-for="Libro.AutorId" class="form-control form-select" asp-items="ViewBag.AutorId"></select>
+                <span asp-validation-for="Libro.AutorId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Libro.GeneroId" class="control-label"></label>
+                <select asp-for="Libro.GeneroId" class="form-control form-select" asp-items="ViewBag.GeneroId"></select>
+                <span asp-validation-for="Libro.GeneroId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Libro.Estado" class="control-label"></label>
+                <select asp-for="Libro.Estado" class="form-select form-select" asp-items="Html.GetEnumSelectList<AppBiblioteca.Models.Libro.EstadoLibro>()"></select>
+                <span asp-validation-for="Libro.Estado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Libro.Disponible" class="control-label"></label>
+                <div class="form-group form-check">
+                    <input class="form-check-input" asp-for="Libro.Disponible" type="radio" value="true" />
+                    <label class="form-check-label">Sí</label>
+                </div>
+                <div class="form-group form-check">
+                    <input class="form-check-input" asp-for="Libro.Disponible" type="radio" value="false" />
+                    <label class="form-check-label">No</label>
+                </div>
+            </div>
+            <div class="form-group mt-3">
+                <button type="submit" class="btn btn-success">
+                    <i class="fa-solid fa-floppy-disk"></i>&nbsp;Guardar
+                </button>
+
+                <a asp-page="./Index" class="btn btn-secondary"><i class="fa-solid fa-circle-left"></i>&nbsp;Regresar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

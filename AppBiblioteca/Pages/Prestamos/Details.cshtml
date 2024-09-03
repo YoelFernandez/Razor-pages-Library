@@ -1,0 +1,37 @@
+﻿@page
+@model AppBiblioteca.Pages.Prestamos.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Prestamo</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prestamo.Libro)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prestamo.Libro.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prestamo.FechaPrestamo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prestamo.FechaPrestamo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prestamo.FechaDevolucion)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prestamo.FechaDevolucion)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Prestamo.Id" class="btn btn-warning  "><i class="fa-solid fa-pen-to-square"></i>&nbsp;Editar</a>
+    <a asp-page="./Index" class="btn btn-secondary"><i class="fa-solid fa-circle-left"></i>&nbsp;Regresar</a>
+</div>

@@ -1,0 +1,65 @@
+﻿@page
+@model AppBiblioteca.Pages.Prestamos.IndexModel
+
+@{
+    ViewData["Title"] = "Prestamos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p class="text-end">
+    @Model.Prestamo.Count registros
+</p>
+<div class="row">
+    <div class="col-6">
+        <a asp-page="Create" class="btn btn-info"><i class="fa-solid fa-plus"></i>&nbsp;Nuevo prestamo </a>
+
+    </div>
+    <div class="col-6">
+        <form>
+            <div class="input-group">
+                @* asp-for="buscarEstado" *@
+                <input type="date" class="form-control" asp-for="buscFechadevolucion"/>
+                <button class="btn btn-outline-info">Buscar</button>
+                <a class="btn btn-outline-secondary" asp-page="./Index">Limpiar</a>
+            </div>
+        </form>
+    </div>
+</div>
+<table class="table table-bordered table-hover mt-3">
+    <thead class="bg-info bg-gradient text-white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Prestamo[0].Libro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prestamo[0].FechaPrestamo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prestamo[0].FechaDevolucion)
+            </th>
+            <th class="text-center">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Prestamo)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Libro.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaPrestamo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaDevolucion)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning"><i class="fa-solid fa-pen-to-square"></i>&nbsp; Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-info"><i class="fa-solid fa-circle-info"></i>&nbsp;Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger"><i class="fa-solid fa-trash"></i>&nbsp;Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

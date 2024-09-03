@@ -1,0 +1,63 @@
+﻿@page
+@model AppBiblioteca.Pages.Generos.IndexModel
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common
+@{
+    ViewData["Title"] = "Generos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p class="text-end">
+    @Model.Genero.Count registros
+</p>
+<div class="row">
+    <div class="col-6">
+        <a asp-page="Create" class="btn btn-info"><i class="fa-solid fa-plus"></i>&nbsp; Nuevo genero</a>
+
+    </div>
+    <div class="col-6">
+        <form>
+            <div class="input-group">
+                <input class="form-control" type="text" asp-for="buscarNombre" placeholder="Busc. Nombre"/>
+                <button class="btn btn-outline-info">Buscar</button>
+                <a class="btn btn-outline-secondary" asp-page="./Index">Limpiar</a>
+            </div>
+        </form>
+    </div>
+</div>
+<table class="table table-bordered table-hover mt-3">
+    <thead class="bg-info bg-gradient text-white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Genero[0].Nombre)
+            </th>
+            <th class="text-center">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Genero)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning"><i class="fa-solid fa-pen-to-square"></i>&nbsp; Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-info"><i class="fa-solid fa-circle-info"></i>&nbsp;Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger"><i class="fa-solid fa-trash"></i>&nbsp;Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager(Model.Genero, page=>Url.Action("Index", new
+{
+Pagina = page
+}),
+new PagedListRenderOptions
+{
+    LiElementClasses = new string[] { "page-item" },
+    PageClasses = new string[] { "page-link" }
+}
+)
